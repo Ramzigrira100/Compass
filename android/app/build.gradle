@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.compass.app"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 33
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
